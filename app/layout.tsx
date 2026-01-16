@@ -28,7 +28,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         {/* Use Aldershot logo as favicon */}
-        <link rel="icon" href="/public/images/aldershot_logo.png" type="image/png" />
+        <link rel="icon" href="../public/images/aldershot_logo.png" type="image/png" />
       </head>
       {/* Main body with custom fonts */}
       <body
