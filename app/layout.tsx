@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 // Site metadata for SEO and browser
 export const metadata: Metadata = {
-  title: "Aldershot Lions Chess Club Homepage",
+  title: "Aldershot Lions Chess Club",
   description: "Homepage for the Aldershot Lions Chess Club",
 };
 
