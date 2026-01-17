@@ -7,7 +7,7 @@ export default function About() {
       {/* Header with navigation */}
       <header className="w-full flex flex-col items-center border-b-4 border-[#FFC857] bg-[#FFC857] pb-2">
         <img
-      src=" https://raw.githubusercontent.com/ALDLions-Chess/chess_club/refs/heads/main/public/images/aldershot_logo.png" // Path starting from the /public directory
+      src="https://raw.githubusercontent.com/ALDLions-Chess/chess_club/refs/heads/main/public/images/ald_lions.png" // Path starting from the /public directory
       alt="Aldershot Lions"
       width={100} // Required for string sources
       height={100} // Required for string sources
