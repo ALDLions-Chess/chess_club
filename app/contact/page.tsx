@@ -10,8 +10,8 @@ export default function Contact() {
         <img
       src="https://raw.githubusercontent.com/ALDLions-Chess/chess_club/refs/heads/main/public/images/ald_lions.png" // Path starting from the /public directory
       alt="Aldershot Lions"
-      width={100} // Required for string sources
-      height={100} // Required for string sources
+      width={85} // Required for string sources
+      height={85} // Required for string sources
           />
         <div className="flex items-center gap-2 sm:gap-4 mt-4">
           {/* Club title */}
