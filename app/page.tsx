@@ -6,6 +6,11 @@ export default function Home() {
     <div className="min-h-screen bg-[#214E34] text-white flex flex-col font-sans">
       {/* Header with title and navigation */}
       <header className="w-full flex flex-col items-center border-b-4 border-[#FFC857] bg-[#FFC857] pb-2">
+        <img
+      src=" https://raw.githubusercontent.com/ALDLions-Chess/chess_club/refs/heads/main/public/images/aldershot_logo.png" // Path starting from the /public directory
+      alt="Aldershot Lions"
+      width={100} // Required for string sources
+      height={100} // Required for string sources/>
         <div className="flex items-center gap-2 sm:gap-4 mt-4">
           {/* Club title */}
           <h1 className="text-3xl sm:text-5xl font-extrabold text-[#3B2C35] tracking-wide drop-shadow-lg">Chess Club</h1>
